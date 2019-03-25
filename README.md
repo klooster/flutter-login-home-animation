@@ -33,7 +33,7 @@ In the command terminal, run the following commands:
     $ open -a Simulator
     $ flutter run
 
-# Simulate for Android
+# Simulate for Android 
 
     Make sure you have an Android emulator installed and running.
     Run the following command in your terminal.
