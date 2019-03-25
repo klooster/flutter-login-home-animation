@@ -5,7 +5,7 @@ A new open-source Flutter project that enables the developer to quickly get star
 
 This project contains the basic features of Flutter Animation that are required to build an amazing Flutter application.
 
-You can also checkout the flow of animation and steps to design it briefly at our medium article [Flutter Login Animation](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19)
+You can also c heckout the flow of animation and steps to design it briefly at our medium article [Flutter Login Animation](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19)
 
 # Demo
 ![Demo](https://github.com/GeekyAnts/flutter-login-home-animation/blob/master/dribbbledanimation/ScreenGif/Login_Animation.gif)
@@ -39,4 +39,7 @@ In the command terminal, run the following commands:
     Run the following command in your terminal.
     $ flutter run
 
+
+
 ##### Check out Flutter’s online [documentation](http://flutter.io/) for help getting start with your Flutter Animation project.
+
