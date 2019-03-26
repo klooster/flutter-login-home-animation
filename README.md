@@ -14,7 +14,7 @@ You can also c heckout the flow of animation and steps to design it briefly at o
 
 **Note:** Make sure your Flutter environment is setup.
 
-#### Installation
+#### Installation 
 
 In the command terminal, run the following commands:
 
