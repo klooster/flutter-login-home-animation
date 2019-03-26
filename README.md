@@ -10,7 +10,7 @@ You can also c heckout the flow of animation and steps to design it briefly at o
 # Demo
 ![Demo](https://github.com/GeekyAnts/flutter-login-home-animation/blob/master/dribbbledanimation/ScreenGif/Login_Animation.gif)
 
-## Getting Started
+## Getting Started 
 **Note:** Make sure your Flutter environment is setup.
 
 #### Installation
