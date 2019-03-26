@@ -27,7 +27,7 @@ In the command terminal, run the following commands:
     Open the project in Xcode from ios/Runner.xcodeproj.
     Hit the play button.
 
-#### Method Two
+#### Method Two 
 
     Run the following command in your terminal.
     $ open -a Simulator
