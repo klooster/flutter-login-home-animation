@@ -7,13 +7,13 @@ This project contains the basic features of Flutter Animation that are required 
 
 You can also c heckout the flow of animation and steps to design it briefly at our medium article [Flutter Login Animation](https://blog.geekyants.com/flutter-login-animation-ab3e6ed4bd19)
 
-# Demo
+# Demo 
 ![Demo](https://github.com/GeekyAnts/flutter-login-home-animation/blob/master/dribbbledanimation/ScreenGif/Login_Animation.gif)
 
 ## Getting Started  
 **Note:** Make sure your Flutter environment is setup.
 
-#### Installation
+#### Installation 
 
 In the command terminal, run the following commands:
 
